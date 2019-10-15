@@ -9,4 +9,4 @@ Right Mouse -> left Ctrl -> walk
 alt+f4 closes program
 alt+tab helps you select window so then your able to close program
 This should be combined with the [Keyboard2Mouse](https://www.google.com) Program
-[Download](./)
+[Download](./releases)
