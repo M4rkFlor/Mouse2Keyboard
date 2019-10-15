@@ -1,0 +1,2 @@
+# Mouse2Keyboard DLL
+This should be in its own visual studio solution. DLL creation varies, I used vs2017, if you have never created a dll before visual studio has good documentation/tutorials, just make sure you select the corresponding version of the documenation for your version of visual studio.
