@@ -2,7 +2,7 @@
 Turns your mouse into a keyboard  
 Moving the mouse up left down or right corresponds to wasd  
 Back Mouse Btn -> clears the movement direction  
-Forrward Mouse Btn -> R -> reload  
+Forward Mouse Btn -> R -> reload  
 Left mouse -> spacebar -> jump  
 Middle mouse -> shift -> crouch  
 Right Mouse -> left Ctrl -> walk  
